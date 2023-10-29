@@ -231,7 +231,6 @@ if call.data == 'bot_stop':
 <hr>
 
 ### This was my first big bot, and my first big readme. As I wrote at the beginning, you can write to me in Telegram about wishes and shortcomings )
-
 <h1 align="center">Other link</h1>
 
 <div align="center">
@@ -240,5 +239,7 @@ if call.data == 'bot_stop':
 |
 [telegram](https://t.me/kenyka)
 |
-[FunPay](https://t.me/kenyka)
+[YouTube](https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA)
+|
+[GGdash](https://discord.gg/r6gCRR75Un)
 </div>
