@@ -235,11 +235,9 @@ if call.data == 'bot_stop':
 
 <div align="center">
 
-[Bstore](https://t.me/thebelkin)
+[Telegram](https://t.me/kenyka)
 |
-[telegram](https://t.me/kenyka)
+[Discord](https://discord.gg/nYFrpwRHAY)
 |
 [YouTube](https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA)
-|
-[GGdash](https://discord.gg/r6gCRR75Un)
 </div>
